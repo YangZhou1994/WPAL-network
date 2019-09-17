@@ -1,6 +1,6 @@
 # Weakly-supervised Pedestrian Attribute Localization Network
 
-By Ken Yu, under guidance of Dr. Zhang Zhang and Prof. Kaiqi Huang.
+Under guidance of Dr. Zhang Zhang and Prof. Kaiqi Huang.
 
 Weakly-supervised Pedestrian Attribute Localization Network (WPAL-network) is a Convolutional Neural Network (CNN) structure designed for recognizing attributes from objects as well as localizing them. Currently it is developed to recognize attributes from pedestrians only, using the Richly Annotated Pedestrian (RAP) database or PETA database.
 
